@@ -1,0 +1,10 @@
+#estado{
+    width: 100px;
+    height: 100px;
+}
+.cambio1{
+    background-color: red;
+}
+.cambio2{
+    background-color: green;
+}
